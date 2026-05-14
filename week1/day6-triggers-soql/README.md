@@ -132,13 +132,4 @@ Manual processing is not practical due to:
 - Risk of human error
 - Requirement for consistent business rules across the system
 
-Event-driven architecture ensures that business logic executes automatically when data changes occur, improving scalability, reliability, and performance.
-
----
-
-## Summary
-
-SOQL is used for querying data from Salesforce objects.
-Apex Triggers are used to automatically execute logic when data changes.
-Flows handle simple automation while triggers handle complex and scalable logic.
-Enterprise systems rely on event-driven behavior to ensure real-time responses.
+Event-driven architecture ensures that business logic executes automatically when data changes occur, improving scalability, reliability, and performance.  
